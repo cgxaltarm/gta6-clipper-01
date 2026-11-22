@@ -1,8 +1,8 @@
 # GTA 6 Clipper — Launch Trailer Vertical Cut
 
-![make.fun](https://make.fun/badge/gta6-clipper-01.svg)
-![Rank](https://make.fun/badge/gta6-clipper-01/cgxaltarm/gta6-clipper-01/rank.svg)
-![Reward](https://make.fun/badge/gta6-clipper-01/cgxaltarm/gta6-clipper-01/reward.svg)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/cgxaltarm/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/cgxaltarm/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 A make.fun bounty entry: a vertical 9:16 cut of Rockstar's official GTA 6
 Launch Trailer, posted as a public YouTube Short. Places go by the video's
